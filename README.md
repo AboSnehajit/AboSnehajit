@@ -15,7 +15,7 @@
 
 ## About Me
 
-Product Engineer at **[Your Company]**, Chennai — working primarily on Angular frontends with a strong interest in data engineering and AI-powered systems. My background is in Economics, which shapes how I think about product decisions and user behaviour.
+Product Engineer , Chennai — working primarily on Angular frontends with a strong interest in data engineering and AI-powered systems. My background is in Economics, which shapes how I think about product decisions and user behaviour.
 
 Currently building two side projects that reflect where I'm headed:
 
@@ -115,6 +115,6 @@ A Java application applying abstraction, inheritance, and polymorphism across a 
 
 *Open to interesting product engineering and full-stack roles in India  or remote.*
 
-**Let's connect →** [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/snehajit-dey-1ba0b522a/)) · [Email](mailto:snehajitdey2602@gmail.com)
+**Let's connect →** [LinkedIn](https://www.linkedin.com/in/snehajit-dey-1ba0b522a/) · [Email](mailto:snehajitdey2602@gmail.com)
 
 </div>
